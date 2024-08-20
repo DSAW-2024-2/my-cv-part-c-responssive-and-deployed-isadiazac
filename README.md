@@ -5,6 +5,9 @@
 
 En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y CSS. Este ejercicio está dividido en dos partes para que puedan enfocarse primero en la estructura y luego en el diseño.
 
+## Link de la página desplegada:
+https://dsaw-2024-2.github.io/my-cv-part-c-responssive-and-deployed-isadiazac/
+
 ## Parte 1: HTML
 
 ### Objetivo
